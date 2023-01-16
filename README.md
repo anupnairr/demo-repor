@@ -1,2 +1,2 @@
 # Demo repository 
-A description 
+This is a description 
